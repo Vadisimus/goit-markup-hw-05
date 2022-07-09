@@ -277,7 +277,7 @@ img {
     background-color: rgba(33, 150, 243, 1);
 
     transform: scale(100%);
-    transition: scale var(--animation);
+    transition: transform var(--animation);
 }
 
 .hero-btn:hover,
