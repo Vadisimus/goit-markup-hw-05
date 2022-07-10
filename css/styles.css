@@ -840,8 +840,8 @@ img {
 
 .modal-icon {
     position: absolute;
-    top: 17px;
-    right: 17px;
+    top: 8px;
+    right: 8px;
 
     display: flex;
     align-items: center;
